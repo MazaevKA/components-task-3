@@ -1,0 +1,146 @@
+[
+	{
+		"id": "000",
+		"name": "zero",
+		"button": 0,
+    "enabled": true
+	},
+	{
+		"id": "001",
+		"name": "one",
+		"button": 1,
+    "enabled": true
+	},
+	{
+		"id": "002",
+		"name": "two",
+		"button": 2,
+    "enabled": true
+	},
+	{
+		"id": "003",
+		"name": "three",
+		"button": 3,
+    "enabled": true
+	},
+	{
+		"id": "004",
+		"name": "four",
+		"button": 4,
+    "enabled": true
+	},
+	{
+		"id": "005",
+		"name": "five",
+		"button": 5,
+    "enabled": true
+	},
+	{
+		"id": "006",
+		"name": "six",
+		"button": 6,
+    "enabled": true
+	},
+	{
+		"id": "007",
+		"name": "seven",
+		"button": 7,
+    "enabled": true
+	},
+	{
+		"id": "008",
+		"name": "eight",
+		"button": 8,
+    "enabled": true
+	},
+	{
+		"id": "009",
+		"name": "nine",
+		"button": 9,
+    "enabled": true
+	},
+	{
+		"id": "010",
+		"name": "division",
+		"button": "÷",
+    "enabled": true
+	},
+	{
+		"id": "011",
+		"name": "multiple",
+		"button": "*",
+    "enabled": true
+	},
+	{
+		"id": "012",
+		"name": "minus",
+		"button": "-",
+    "enabled": true
+	},
+	{
+		"id": "013",
+		"name": "plus",
+		"button": "+",
+    "enabled": true
+	},
+	{
+		"id": "014",
+		"name": "result",
+		"button": "=",
+    "enabled": true
+	},
+  {
+		"id": "015",
+		"name": "conversion",
+		"button": "+/-",
+    "enabled": false
+	},
+  {
+		"id": "016",
+		"name": "comma",
+		"button": ",",
+    "enabled": false
+	},
+  {
+		"id": "017",
+		"name": "percent",
+		"button": "%",
+    "enabled": false
+	},
+  {
+		"id": "018",
+		"name": "ce",
+		"button": "CE",
+    "enabled": false
+	},
+  {
+		"id": "019",
+		"name": "clear",
+		"button": "C",
+    "enabled": true
+	},
+	{
+		"id": "020",
+		"name": "backspace",
+		"button": "<",
+    "enabled": false
+	},
+  {
+		"id": "021",
+		"name": "fraction",
+		"button": "1/x",
+    "enabled": false
+	},
+  {
+		"id": "022",
+		"name": "square",
+		"button": "x2",
+    "enabled": false
+	},
+  {
+		"id": "023",
+		"name": "root",
+		"button": "√",
+    "enabled": false
+	}
+]
